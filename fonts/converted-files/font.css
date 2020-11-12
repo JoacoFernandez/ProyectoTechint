@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Moderat-Thin';
+  src: url('Moderat-Thin.eot');
+  src: url('Moderat-Thin.eot?#iefix') format('embedded-opentype'),
+       url('Moderat-Thin.svg#Moderat-Thin') format('svg'),
+       url('Moderat-Thin.ttf') format('truetype'),
+       url('Moderat-Thin.woff') format('woff'),
+       url('Moderat-Thin.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

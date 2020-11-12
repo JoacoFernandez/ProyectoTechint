@@ -865,7 +865,7 @@ Animation Css
  font-family: 'Open Sans', sans-serif;
  font-family: 'Roboto', sans-serif;
  font-family: 'Reenie Beanie', cursive;
- font-family: 'CerebriSans';
+ font-family: ''Moderat-Thin' !important';
  
  =================================================*/
 .hidden {
@@ -1015,8 +1015,8 @@ Animation Css
 .roboto-font {
   font-family: "Roboto", sans-serif; }
 
-.CerebriSans-font {
-  font-family: "CerebriSans";
+.'Moderat-Thin' !important-font {
+  font-family: "'Moderat-Thin' !important";
   color: #777; }
 
 /* Font Weight */
@@ -8201,7 +8201,7 @@ button.brook-btn {
     color: #222222;
     text-transform: uppercase;
     font-weight: 500;
-    font-family: "CerebriSans";
+    font-family: "'Moderat-Thin' !important";
     -webkit-box-shadow: none;
     box-shadow: none; }
     a.brook-btn.bk-btn-gray:hover,
@@ -8740,7 +8740,7 @@ a.moredetails-btn {
   line-height: 1.22;
   letter-spacing: 3px;
   font-weight: 700;
-  font-family: "CerebriSans" !important;
+  font-family: "'Moderat-Thin' !important" !important;
   text-transform: uppercase;
   margin-bottom: 0; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -8829,7 +8829,7 @@ a.moredetails-btn {
 .group-link a {
   position: relative;
   font-size: 18px;
-  font-family: "CerebriSans";
+  font-family: "'Moderat-Thin' !important";
   color: #222222;
   position: relative;
   padding: 2px 0;
@@ -8881,7 +8881,7 @@ a.moredetails-btn {
   font-size: 16px;
   color: #111;
   text-transform: uppercase;
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
   .view-btn a::before {
     content: "";
     position: absolute;
@@ -10668,7 +10668,7 @@ Blog Default Style
   color: #ffffff !important;
   border-color: #9F3939 !important;
   background-color: #9F3939 !important;
-  font-family: "CerebriSans" !important;
+  font-family: "'Moderat-Thin' !important" !important;
   font-size: 13px !important;
   font-weight: 500 !important;
   letter-spacing: 1px !important;
@@ -12511,7 +12511,7 @@ a {
     font-size: 18px;
     line-height: 34px;
     color: #fff;
-    font-family: "CerebriSans";
+    font-family: "'Moderat-Thin' !important";
     max-width: 610px;
     margin: 0 auto;
     margin-bottom: 40px; }
@@ -16963,7 +16963,7 @@ Pricing Box
         transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1); }
       .single-svg-icon-box.business-icon-box .content p {
         color: #fff;
-        font-family: "CerebriSans";
+        font-family: "'Moderat-Thin' !important";
         -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
         -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
         transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1); }
@@ -45034,50 +45034,50 @@ body.template-font-7 .h3,
 body.template-font-7 .h4,
 body.template-font-7 .h5,
 body.template-font-7 .h6 {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .heading.font-reenie {
   font-family: 'Reenie Beanie', cursive; }
 
 body.template-font-7 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .mega__width--fullscreen .mega__list li a span {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .copyright ul.bk-copyright-menu li a {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .copyright .copyright-right p {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .footer-widget .footer-address p {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .form-style--1 .input-box input,
 body.template-font-7 .form-style--1 .input-box textarea {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .testimonial_style--1 .content p {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .service.service--1 .content p {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .service.service--2 .content h4 {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-7 .service.service--2 .content p {
-  font-family: "CerebriSans"; }
+  font-family: "'Moderat-Thin' !important"; }
 
 body.template-font-8 .heading,
 body.template-font-8 h1,
