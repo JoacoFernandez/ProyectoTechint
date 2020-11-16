@@ -108,7 +108,7 @@ button {
             color: #222222;
         }
         &.bk-btn-green {
-            background: #022046;
+            background: #7f7f7f;
             color: $white;
         }
         &.bk-btn-gray{
@@ -456,8 +456,8 @@ a {
     box-shadow: none !important;
     margin: 0 !important;
     &:hover{
-        background: #022046 !important;
-        border-color: #022046 !important;
+        background: #7f7f7f !important;
+        border-color: #7f7f7f !important;
         color: $white !important;
         transform: translateY(0px) !important;
     }
