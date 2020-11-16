@@ -12,3 +12,9 @@
 	font-family: Moderat-Thin;
 	src: url(../fonts/Moderat-Thin.ttf)
   }
+
+  @include media-breakpoint-up(lg) { 
+	  .col-10{
+		  font-size: 40px
+	  }
+   }
